@@ -3,7 +3,7 @@
 
 <h1 align="center">Acknowledgements</h1>
 
-- [Live Project Link](https://resilient-gumdrop-d3b7ad.netlify.app/)
+- [Live Project Link](https://sumitraghavwork.github.io/weather101/)
 
 ## Authors
 
